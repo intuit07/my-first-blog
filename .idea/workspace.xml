@@ -91,8 +91,8 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#6355#6359#0" expanded="true" />
-                <element signature="e#6363#6367#0" expanded="true" />
+                <element signature="e#6517#6521#0" expanded="true" />
+                <element signature="e#6525#6529#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -415,6 +415,14 @@
       <option name="presentableId" value="Default" />
       <updated>1527958341161</updated>
     </task>
+    <task id="LOCAL-00001" summary="Reload project">
+      <created>1536073964961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536073964961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -462,7 +470,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Reload project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reload project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -530,8 +539,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6355#6359#0" expanded="true" />
-            <element signature="e#6363#6367#0" expanded="true" />
+            <element signature="e#6517#6521#0" expanded="true" />
+            <element signature="e#6525#6529#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -872,8 +881,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6355#6359#0" expanded="true" />
-            <element signature="e#6363#6367#0" expanded="true" />
+            <element signature="e#6517#6521#0" expanded="true" />
+            <element signature="e#6525#6529#0" expanded="true" />
           </folding>
         </state>
       </provider>
