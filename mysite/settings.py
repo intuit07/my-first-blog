@@ -25,7 +25,7 @@ SECRET_KEY = '7$+6&)z8k45b9cymjdq0-p8b$(_128@xo2g9+1r)ubn(k95@$a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'intuit07.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'intui07.pythonanywhere.com']
 
 
 # Application definition
